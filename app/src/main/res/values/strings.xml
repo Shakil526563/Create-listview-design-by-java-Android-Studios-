@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="select_your_id">Select your id</string>
+    <string name="search_your_course_name">Search Your course name</string>
+</resources>
